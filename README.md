@@ -30,8 +30,5 @@ Data Manipulation tasks plays significant role in the approach to the problem st
 The approach to the problem is, to prepare data for different requirements which has been asked as questions and that is done through creating sub sets for the given data.
 I created subsets for data from the root data/ given data, and it includes:
 
-						IPL DATA SET
-
-Batsmen Data	Bowlers Data		Fielders Data		Match Data				
-Death & Powerplay Data		Batsmen runs with results
+![image](https://user-images.githubusercontent.com/80576855/211581481-ef95d85d-9fbb-48d4-a438-2675da9a9f80.png)
 
