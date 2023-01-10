@@ -32,3 +32,44 @@ I created subsets for data from the root data/ given data, and it includes:
 
 ![image](https://user-images.githubusercontent.com/80576855/211581481-ef95d85d-9fbb-48d4-a438-2675da9a9f80.png)
 
+Tools Used:	
+•	Python
+•	Pandas
+•	Numpy
+•	Seaborn/Matplotlib
+
+
+Information on the Subsets:
+	Subsets have been created through Data manipulation and Feature Extraction, it includes, 
+•	combing two features
+•	applying functions on features
+•	mapping values to features
+•	calculations on the features etc..,
+
+Batsmen Data set:
+It consists of features like:
+'Batsmen', 'Runs', 'Balls Faced', 'Strike Rate', 'Matches Played',
+'Sixes', 'Fours', 'Triples', 'Doubles', 'Singles', 'Dismissals',
+'Caught', 'Bowled', 'RunOut', 'LBW', '50s', '100s', '150s', '200s',
+'Bp6', 'Bp4', 'Best', 'Wins', 'Wins Percentage', 'Dots', 'Dots Rate',
+'Boundary_Runs', 'BR Percent'.
+
+Bowlers Data set:
+It consists of features like:
+'Bowlers', 'Wickets', 'Balls Bowled', 'Overs Bowled', 'Strike Rate',
+'Extras', 'Runs Conceded', 'Economy', 'Dots', 'Best'
+
+Match Data set:
+It consists of features like:
+'match_id', 'First Innings', 'Second Innings', 'First Innings Score',
+'Second Innings Score', 'Winner', 'Batting wins', 'Bowling wins'
+
+Fielder Data set:
+It consists of features like:
+'Fielders', 'Catches', 'Run Outs'
+
+Death & Power Play Overs Data set:
+It consists of features like:
+'Bowlers', 'Runs Conceded', 'Wickets', 'Economy', 'Balls', 'Overs', 'Dots'
+
+
